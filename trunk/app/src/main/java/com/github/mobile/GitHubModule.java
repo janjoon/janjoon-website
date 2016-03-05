@@ -17,6 +17,7 @@ package com.github.mobile;
 
 import android.content.Context;
 /*test arnaud 24032014  */
+/*test Arnaud 05032016 */
 import com.github.mobile.accounts.AccountClient;
 import com.github.mobile.accounts.AccountScope;
 import com.github.mobile.accounts.GitHubAccount;
