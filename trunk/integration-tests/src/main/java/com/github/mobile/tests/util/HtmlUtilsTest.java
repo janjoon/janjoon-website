@@ -32,7 +32,7 @@ public class HtmlUtilsTest extends AndroidTestCase {
         return formatted.toString().replace("<githubroot>", "")
                 .replace("</githubroot>", "");
     }
-
+//coucou
     /**
      * Single email toggle span is removed
      */
