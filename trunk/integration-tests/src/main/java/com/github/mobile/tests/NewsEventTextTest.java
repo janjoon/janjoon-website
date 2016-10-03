@@ -85,6 +85,7 @@ public class NewsEventTextTest extends AndroidTestCase {
                 new AvatarLoader(mContext));
     }
 
+  /* voilà create Event */
     private Event createEvent(String type) {
         Event event = new Event();
         event.setCreatedAt(date);
