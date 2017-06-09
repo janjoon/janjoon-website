@@ -58,7 +58,7 @@ import org.eclipse.egit.github.core.event.PullRequestPayload;
 import org.eclipse.egit.github.core.event.PushPayload;
 import org.eclipse.egit.github.core.event.TeamAddPayload;
 
-/**
+/** styzrtyzrtyzrty
  * Tests of the news text rendering
  */
 public class NewsEventTextTest extends AndroidTestCase {
